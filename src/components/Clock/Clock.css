@@ -1,0 +1,30 @@
+.contain {
+    margin-top: 40px;;
+    display: flex; 
+    flex-direction: column;
+    width: 18%;
+    margin-right: 30px;
+}
+
+.titleClocks {
+    text-align: center;
+}
+
+.cont {
+    position: relative;
+}
+
+.btn {
+    position: absolute;
+    right: 0;
+    width: 23px;
+    height: 23px;
+    font-size: 12px;
+    text-align: start;
+    background: #ffffff;
+    border-radius: 50%;
+}
+
+.date {
+    margin-top: 30px;
+}
